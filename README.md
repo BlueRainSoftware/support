@@ -12,5 +12,15 @@ Alternatively (or in addition), you can ...
 * ... have a look at our [API Docs](https://backend.id4i.de/docs/redoc/index.html) ...
 * ... and our [development guide](https://backend.id4i.de/docs/reference/en/reference.html) 
 * ... check out a [sample application](https://github.com/BlueRainSoftware/id4i-api_client-java)
+* ... and our [client](https://github.com/BlueRainSoftware/id4i-api_client-java) [libraries](https://github.com/BlueRainSoftware/id4i-api_client-javascript)
 
 To open a new support issue, click on the Issues tab and then the `New Issue` button.
+Please include the following in your request:
+* your ID4i user
+* the error id (if an error occured)
+
+If you are reporting a bug, please let us know
+* what you expected
+* what actually happend
+* any error messages and error IDs
+* how to reproduce the issue
