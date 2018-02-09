@@ -5,7 +5,7 @@
 This is the public support repository for ID4i and BarCollect.
 It tracks [feature requests, support requests and bugs](https://github.com/BlueRainSoftware/support/issues?state=open) regarding the [ID4i](http://id4i.de) and [BarCollect](http://barcollect.de) products and APIs.
 
-If you are struggling to implement and API client or found something that is not working as expected, you've come to the right place.
+If you are struggling to implement an API client or found something that is not working as expected, you've come to the right place.
 
 Alternatively (or in addition), you can ... 
 * ... hop onto our [Gitter Channel](https://gitter.im/BlueRainSoftware/support)
