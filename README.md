@@ -1,4 +1,5 @@
-# ID4i / BarCollect Support
+# ID4i / BarCollect Support <img src="./id4i-icon.svg" width="64" height="64" align="right">
+
 
 [![Join the chat at https://gitter.im/BlueRainSoftware/support](https://badges.gitter.im/BlueRainSoftware/support.svg)](https://gitter.im/BlueRainSoftware/support?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Java API on Maven Central](https://img.shields.io/maven-central/v/de.id4i.api/id4i-api-client.svg)](https://github.com/BlueRainSoftware/id4i-api_client-java)
