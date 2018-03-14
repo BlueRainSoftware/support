@@ -19,7 +19,7 @@ If you haven't done so already, you can ...
 * ... have a look at our [API Docs](https://backend.id4i.de/docs/redoc/index.html) ...
 * ... and our [development guide](https://backend.id4i.de/docs/reference/en/reference.html) 
 * ... check out a [sample application](https://github.com/BlueRainSoftware/id4i-api_client-java)
-* ... and [our]((https://github.com/BlueRainSoftware/id4i-api_client-csharp)) [client](https://github.com/BlueRainSoftware/id4i-api_client-java) [libraries](https://github.com/BlueRainSoftware/id4i-api_client-javascript)
+* ... and [our](https://github.com/BlueRainSoftware/id4i-api_client-csharp) [client](https://github.com/BlueRainSoftware/id4i-api_client-java) [libraries](https://github.com/BlueRainSoftware/id4i-api_client-javascript)
 
 If this did not help you solve your problem, please [open an issue](https://github.com/BlueRainSoftware/support/issues/new)
 Please include the following in your request:
