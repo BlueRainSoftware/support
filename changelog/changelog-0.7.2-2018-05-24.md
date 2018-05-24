@@ -2,7 +2,7 @@
 ---
 ### :sparkles: Added
 
-* `GET` /api/v1/organizations/{organizationId}/privileges List my privileges
+* `GET` /api/v1/organizations/{organizationId}/privileges - List my privileges
 ---
 
 ### :recycle: Removed
