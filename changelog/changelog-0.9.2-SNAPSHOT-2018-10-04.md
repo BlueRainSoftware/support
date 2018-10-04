@@ -5,7 +5,7 @@
 
 ### :recycle: Removed
 ---
-:warning:
+
 ### :wrench: Changed
 ---
 * `GET` /api/v1/history/{id4n} List history  
