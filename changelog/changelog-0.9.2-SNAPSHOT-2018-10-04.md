@@ -14,3 +14,4 @@
   * :heavy_plus_sign: Parameter `qualifier` - Show only entries matching one of the given history item qualifiers (additional property de.id4i.history.item.qualifier). This parameter can be used multiple times.
   * :heavy_plus_sign: Parameter `fromDate` - From date time as UTC Date-Time format
   * :heavy_plus_sign: Parameter `toDate` - To date time as UTC Date-Time format
+* :warning: Deprecated: `GET` /api/v1/history/{id4n}/{organizationId} DEPRECATED - List history  
