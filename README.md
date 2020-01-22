@@ -16,7 +16,6 @@ If you are struggling to implement an API client or found something that is not 
 
 If you haven't done so already, you can ... 
 * ... have a look at the [API Changelog](https://github.com/BlueRainSoftware/support/tree/master/changelog)
-* ... hop onto our [Gitter Channel](https://gitter.im/BlueRainSoftware/support)
 * ... have a look at our [API Docs](https://backend.id4i.de/docs/redoc/index.html) ...
 * ... and our [development guide](https://backend.id4i.de/docs/reference/en/reference.html) 
 * ... check out our [sample](https://github.com/BlueRainSoftware/id4i-api_client-java) [applications](https://github.com/BlueRainSoftware/id4i-api_client-csharp)
